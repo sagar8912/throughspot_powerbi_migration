@@ -1,0 +1,25 @@
+# Python
+myenv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Node
+node_modules/
+dist/
+build/
+.env.local
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Outputs
+backend/output/
+backend/storage/
+backend/data/jobs.db
